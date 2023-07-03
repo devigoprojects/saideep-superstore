@@ -1,0 +1,22 @@
+.product-card{
+    min-width: 50%;
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+
+.product-card img{
+    width: 80%;
+}
+
+.product-card p{
+    text-align: start;
+    font-size: 1.2em;
+}
+
+.product-card h4{
+    text-align: start;
+    color: green;
+    font-size: 1.8em;
+}

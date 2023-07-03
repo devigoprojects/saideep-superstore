@@ -1,0 +1,30 @@
+
+.Footer{
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+}
+
+.Footer .bottom-nav{
+     background-color: #5e6db9;
+     padding: 10px;
+     margin: 0 20px 0 20px;
+     border-radius: 5px;
+   
+}
+
+.bottom-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-nav span{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+
+.bottom-nav .icon{
+
+    font-size: 25px;
+}

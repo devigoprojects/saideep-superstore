@@ -1,0 +1,13 @@
+.latest-products{
+    padding: 10px;
+}
+
+.latest-products h2{
+    padding: 10px;
+    font-size: 1.8em;
+}
+
+.latest-products-collection{
+    display: flex;
+    overflow-x: auto;
+}

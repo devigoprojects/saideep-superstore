@@ -1,0 +1,15 @@
+.shop-by-category .category-grid img{
+   width: 33%;
+}
+
+.shop-by-category .heading {
+    font-size: 1.2em;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px 10px 10px 10px;
+}
+
+.shop-by-category .heading a{
+    text-decoration: none;
+}
